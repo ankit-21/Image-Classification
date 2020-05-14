@@ -1,2 +1,4 @@
 # Image-Classification
 In this Computer Vision project, I tried to predict the class of a building by showing the model the image of the building. For this project, I used 14 classes of buildings and used CNN architecture for image classification.
+Data Prep: Separate folders for training, validation and testing were created. Each folder contains a subfolder of each class of buildings and hence, each of the traing, validation and testing folders contained 14 subfolders (for each class).
+Buildings Used: Willis Tower (Chicago, USA), Buckhingam Fountain (Chicago, USA), The Bean (Chicago, USA), The Merchandise Mart Plaza (Chicago, USA), Empire State Building (New York, USA), World Trade Center (New York, USA), Statue of Liberty (New York, USA), Brooklyn Bridge (New York, USA), The Opera House (Sydney, Australia), The Taj Mahal (Agra, India), The Tower of Pisa (Italy), Petronas Tower (KL, Malaysia), The White House (DC, USA), The Capitol Building (DC, USA).
